@@ -11,7 +11,7 @@ st.set_page_config(
 
 # Header
 st.header("CodePulse")
-st.caption("A simple, feedback platform for devs")
+st.caption("A simple issue sender for developers")
 st.divider()
 
 # Feedback form
